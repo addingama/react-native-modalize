@@ -2,8 +2,7 @@
   "name": "react-native-modalize",
   "version": "2.1.2",
   "description": "A highly customizable modal/bottom sheet that loves scrolling content.",
-  "main": "lib/index.js",
-  "types": "./lib/index.d.ts",
+  "main": "index.js",
   "scripts": {
     "build": "rm -rf ./lib/* && yarn lint && tsc",
     "prepare": "yarn build",
